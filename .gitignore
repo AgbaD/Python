@@ -52,6 +52,7 @@ coverage.xml
 *.pot
 
 # Django stuff:
+temp_auto_push.bat
 *.log
 local_settings.py
 db.sqlite3
@@ -106,4 +107,5 @@ venv.bak/
 .DS_Store
 .idea
 .try
-.vscode/
+.gitignore
+temp_interactive_push.bat
